@@ -291,31 +291,3 @@ Key lessons included:
 * Ensuring data quality before analysis
 
 The most valuable takeaway was learning that data preparation and validation often require more effort than the analysis itself.
-
----
-
-## Repository Structure
-
-COVID-19-SQL-Tableau-Project/
-
-├── data/
-│   ├── covid_deaths.csv
-│   └── covid_vaccinations.csv
-│
-├── python/
-│   ├── mysql_etl.py
-│
-├── sql/
-│   ├── covid_analysis.sql
-│   ├── tableau_queries.sql
-│
-├── tableau/
-│   ├── covid_dashboard.twbx
-│
-├── images/
-│   ├── dashboard_overview.png
-│   ├── infection_map.png
-│   └── vaccination_dashboard.png
-│
-└── README.md
-
