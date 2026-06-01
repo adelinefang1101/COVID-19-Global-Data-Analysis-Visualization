@@ -35,9 +35,15 @@ This project aimed to answer the following questions:
 
 ## Data Source
 
-COVID-19 data was obtained from the Our World in Data COVID-19 dataset.
+The COVID-19 datasets used in this project were obtained from "Our World in Data", a widely used open-access data platform that aggregates global COVID-19 case, death, and vaccination statistics. The project uses the downloadable COVID-19 datasets provided through their COVID Data Explorer and data repository.
 
-The original files were downloaded as raw endpoint exports and required preprocessing before analysis.
+---
+
+## Acknowledgements
+
+This project was inspired by the SQL and Tableau portfolio project created by Alex The Analyst.
+
+While the original tutorial provided the project framework, I worked with a newer version of the COVID-19 dataset and independently addressed data ingestion, schema alignment, data validation, ETL development using Pandas and SQLAlchemy, and dashboard customization.
 
 ---
 
