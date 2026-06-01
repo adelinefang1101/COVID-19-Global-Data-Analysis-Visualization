@@ -228,7 +228,9 @@ OVER (
 
 ## Tableau Dashboard
 
-The Tableau dashboard presents:
+Interactive dashboard built in Tableau analyzing global COVID-19 trends.
+
+👉 [View Live Dashboard](https://public.tableau.com/shared/Q9KTRC7P7?:display_count=n&:origin=viz_share_link)
 
 ### Global Overview
 
