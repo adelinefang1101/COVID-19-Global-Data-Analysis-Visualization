@@ -29,7 +29,6 @@ This project aimed to answer the following questions:
 * Python
 * Pandas
 * SQLAlchemy
-* PyMySQL
 * Tableau
 
 ---
